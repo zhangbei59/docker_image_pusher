@@ -26,7 +26,6 @@ jobs:
 
     - name: Build and push image Aliyun
       run: |
-        echo "docker login -u $ALIYUN_REGISTRY_USER -p $ALIYUN_REGISTRY_PASSWORD $ALIYUN_REGISTRY"
         docker login -u $ALIYUN_REGISTRY_USER -p $ALIYUN_REGISTRY_PASSWORD $ALIYUN_REGISTRY
         while IFS= read -r line; do
           [[ -z "$line" ]] && continue
