@@ -1,1 +1,1 @@
-openebs/provisioner-localpv:4.0.0
+openebs/linux-utils:4.0.0
