@@ -1,6 +1,1 @@
-docker.io/grafana/loki:3.1.0
-memcached:1.6.23-alpine
-prom/memcached-exporter:v0.14.2
-memcached:1.6.23-alpine
-prom/memcached-exporter:v0.14.2
-
+ejabberd/ecs:17.03
