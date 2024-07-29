@@ -1,1 +1,1 @@
-ejabberd/ecs:17.03
+alpine
