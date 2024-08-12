@@ -1,2 +1,2 @@
-harbor-portal
-harbor-core
+bitnami/harbor-portal:latest
+bitnami/harbor-core:latest
