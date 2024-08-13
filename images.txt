@@ -1,2 +1,1 @@
-bitnami/harbor-portal:latest
-bitnami/harbor-core:latest
+ubuntu:22.04
