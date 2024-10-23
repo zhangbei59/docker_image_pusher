@@ -1,2 +1,2 @@
-openjdk:22-jdk
-
+hanchuanchuan/goinception
+hhyo/archery:v1.11.3
