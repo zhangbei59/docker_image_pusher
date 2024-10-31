@@ -1,3 +1,2 @@
-hanchuanchuan/goinception
-hhyo/archery:v1.11.3
-
+bitnami/grafana:11.2.0
+bitnami/prometheus:2.54.1
